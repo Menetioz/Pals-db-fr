@@ -1,0 +1,135 @@
+Numéro	Nom	Type	Pouvoir	Capacités de travail	Loot possible
+1	Lamball	Neutre	Vous protège si vous le portez devant vous (bouclier)	Travaux manuels, Transport, Ferme	Laine, Viande
+2	Cattiva	Neutre	Augmente la limite de poids du joueur	Travaux manuels, Collecte, Extraction, Transport	Baies rouges
+3	Chikipi	Neutre	Peut parfois pondre des œufs si assigné à une Ferme	Collecte, Ferme	Oeuf, Viande
+4	Lifmunk	Plante	Ses feuilles font des dégâts en même temps que le joueur	Semence, Travaux manuels, Abattage, Pharmacie, Collecte	Graines de baies rouges, Médicament de fortune
+5	Foxparks	Feu	Devient un lance-flammes si vous le portez	Allumage de feu	Cuir, Organe d’allumage
+6	Fuack	Eau	Surf jusqu’à un ennemi et le frappe	Travaux manuels, Transport, Arrosage	Cuir, Fluide de Pal
+7	Sparkit	Electrik	Augmente les dégâts des Pals de type Electrik	Travaux manuels, Transport, Génération d’énergie	Organe d’alimentation
+8	Tanzee	Plante	Utilise un fusil d’assaut pour tirer sur les ennemis	Semence, Travaux manuels, Abattage, Transport, Collecte	Champignons
+9	Rooby	Feu	Augmente les dégâts des Pals de type Feu	Allumage de feu	Cuir, Organe d’allumage
+10	Pengullet	Eau, Glace	Projeter sur les ennemis avec un canon; explose à contact	Travaux manuels, Transport, Arrosage, Réfrigération	Organe de congélation, Fluide de Pal
+11	Penking	Eau, Glace	Les Pals de type Feu lâchent plus d’items en combattant	Travaux manuels, Transport, Arrosage, Extraction, Réfrigération	Organe de congélation, Plume de Capen
+12	Jolthog	Electrik	Lancer pour créer une explosion électrique	Génération d’énergie	Organe d’alimentation
+012B	Jolthog Cryst	Glace	Lancer pour créer une explosion de glace	Réfrigération	Organe de congélation
+13	Gumoss	Plante, Sol	Améliore l’efficacité pour couper du bois	Semence	Feuille de Naemochi, Graines de baies rouges
+14	Vixy	Neutre	Détecte des objets du sol à une Ferme	Collecte, Ferme	Cuir, Os
+15	Hoocrates	Ténèbres	Augmente les dégâts des Pals de type Ténèbres	Collecte	Fibre, Manuel technique
+16	Teafant	Eau	Peut soigner en arrosant	Arrosage	Fluide de Pal
+17	Depresso	Ténèbres	Vitesse de déplacement augmentée après consommation énergisante	Travaux manuels, Transport, Extraction	Glande à venin
+18	Cremis	Neutre	Augmente les dégâts des Pals de type Neutre	Collecte, Ferme	Laine
+19	Daedream	Ténèbres	Suit le joueur et lance des boules magiques	Travaux manuels, Transport, Collecte	Glande à venin, Âme de petit Pal
+20	Rushoar	Sol	Augmente l’efficacité pour détruire les rochers	Extraction	Cuir, Os, Viande
+21	Nox	Ténèbres	Ajoute des effets Ténèbres aux attaques	Collecte	Cuir, Âme de Petit Pal
+22	Fuddler	Sol	Détecte des minerais aux alentours	Travaux manuels, Transport, Extraction	Cuir
+23	Kilamari	Ténèbres	Monture volante remplace le planeur	Transport, Collecte	Glande de venin
+24	Mau	Ténèbres	Trouve des Pièces d’Or à une Ferme	Ferme	Pièce d’Or
+024B	Mau Cryst	Glace	Trouve des Pièces d’Or à une Ferme	Réfrigération, Ferme	Organe de congélation, Saphir
+25	Celaray	Eau	Trouve parfois des Pièces d’Or à une Ferme	Transport, Arrosage	Fluide de Pal
+26	Direhowl	Neutre	Monture très rapide	Collecte	Cuir, Rubis, Pièce d’Or
+27	Tocotoco	Neutre	Se transforme en canon à œufs	Collecte	Poudre à canon, Plume
+28	Flopie	Plante	Ramasse automatiquement les objets proches	Semence, Travaux Manuels, Pharmacie, Transport, Collecte	Médicament de fortune, Graine de blé
+29	Mozzarina	Neutre	Produit parfois du Lait à une Ferme	Ferme	Lait, Viande
+30	Bristla	Plante	Augmente les dégâts des Pals de type Plante	Semence, Travaux Manuels, Pharmacie, Transport, Collecte	Graines de blé, Graine de laitue
+31	Gobfin	Eau	Augmente vos dégâts et attaque avec jet d’eau	Travaux Manuels, Transport, Arrosage	Fluide de Pal
+031B	Gobfin Ignis	Feu	Augmente vos dégâts et attaque avec lance-flammes	Allumage de feu, Travaux manuels, Transport	Organe d’allumage
+32	Hangyu	Sol	Porte dans les airs comme un planeur	Travaux Manuels, Transport, Collecte	Fibre
+032B	Hangyu Cryst	Glace	Porte dans les airs comme un planeur	Réfrigération	
+33	Mossanda	Plante	Monture armée d’un lance-grenades	Semence niv2, Travaux Manuels niv2, Abattage niv2, Transport niv3	Champignon, Cuir, Graine de Tomate
+033B	Mossanda Lux	Electrik	Monture armée d’un lance-grenades	Travaux Manuels niv2, Abattage niv2, Transport niv3, Génération d’énergie niv3	Champignon, Organe d’aliment
+34	Woolipop	Neutre	Peut parfois donner de la barbe à papa si assigné à une Ferme.	Ferme	Huile de Pal de qualité, Barbe à Papa
+35	Caprity	Plante	Peut parfois laisser tomber des baies rouges de son dos si assigné à une Ferme.	Semence niv2, Ferme	Corne, Baie rouge, Viande
+36	Melpaca	Neutre	Peut parfois laisser tomber de la laine si assigné à une Ferme.	Ferme	Laine, Cuir
+37	Eikthyrdeer	Neutre	Peut effectuer des double sauts pendant que vous le montez. Augmente l’efficacité de la compétence pour couper du bois.	Abattage niv2	Cuir, Corne, Viande
+037B	Eikthyrdeer Terra	Sol	Peut effectuer des double sauts pendant que vous le montez. Augmente l’efficacité de la compétence pour couper du bois.	Abattage niv2	Cuir, Corne, Viande
+38	Nitewing	Neutre	Monture volante.	Collecte niv2	Cuir
+39	Ribbuny	Neutre	Augmente les dégâts des Pals de type Neutre en équipe. Augmente l’efficacité de travail si assigné à un établi d’armes.	Travaux manuels, Transport, Collecte	Cuir, Jolie fleur
+40	Incineram	Feu et Ténèbres	Attaque les ennemis avec d’énormes coups de griffes enflammés.	Allumage de feu, Travaux manuels niv2, Transport niv2, Extraction	Corne, Cuir
+040B	Incineram Noct	Ténèbres	Attaque les ennemis avec d’énormes coups de griffes enflammés.	Travaux manuels niv2, Transport niv2, Extraction	Cuir, Corne
+41	Cinnamoth	Plante	Attaque les ennemis avec un nuage de poison.	Semence niv2, Pharmacie	Miel, Graine de laitue, Graine de blé
+42	Arsox	Feu	Si monté, garde au chaud pour explorer les territoires froids.	Allumage de feu niv2, Abattage	Corne, Organe d’allumage
+43	Dumud	Sol	Augmente les dégâts des Pals de type Sol en équipe.	Transport, Arrosage, Extraction niv2	Viande, Huile de Pal de qualité
+44	Cawgnito	Ténèbres	Attaque les ennemis avec sa capacité Bec Fantomatique.	Abattage	Os, Glande de venin, Âme de Petit Pal
+45	Leezpunk	Ténèbres	Détecte les donjons proches.	Travaux manuels, Transport, Collecte	Clé en bronze, Clé en argent
+045B	Leezpunk Ignis	Feu	Détecte les donjons proches.	Allumage de feu, Travaux manuels, Transport, Collecte	Organe d’allumage, Clé en argent
+46	Loupmoon	Ténèbres	Attaque les ennemis avec une énorme Morsure.	Travaux manuels niv2	Os
+47	Galeclaw	Neutre	S’utilise comme un planeur. Utilisation d’arme à feu en l’air.	Collecte niv2	Cuir, Viande
+48	Robinquill	Plante	Plus de dégâts sur les points faibles des ennemis en combat.	Semence, Travaux manuels niv2, Abattage, Pharmacie, Transport niv2, Collecte niv2	Graine de Blé, Flèche
+048B	Robinquill Terra	Plante et Sol	Plus de dégâts sur les points faibles des ennemis en combat.	Travaux manuels niv2, Abattage, Pharmacie, Transport niv2, Collecte niv2	Graine de blé, Flèche
+49	Gorirat	Neutre	Lance une attaque « Furie » qui augmente ensuite les dégâts.	Travaux manuels, Abattage niv2, Transport niv3	Cuir, Os
+50	Beegarde	Plante	Donne parfois du Miel si assigné à une Ferme. Augmente les stats d’Elizabee en équipe.	Semence, Travaux manuels, Abattage, Pharmacie, Transport niv2, Collecte, Ferme	Miel
+51	Elizabee	Plante	Plus de Beegarde en équipe, plus ses stats augmentent.	Semence niv2, Travaux manuels niv2, Abattage, Pharmacie niv2, Collecte niv2	Miel
+52	Grintale	Neutre	Augmente les attaques de type Neutre en le montant.	Collecte niv2	Huile de Pal de qualité
+53	Swee	Glace	Augmente les stats de Sweepa en équipe.	Collecte, Réfrigération	Laine
+54	Sweepa	Glace	Plus de Swee en équipe, plus ses stats augmentent.	Collecte niv2, Réfrigération niv2	Laine
+55	Chillet	Glace et Dragon	Attaques de type Dragon en le montant.	Collecte, Réfrigération	Cuir
+56	Univolt	Electrik	Attaques de type Electrik en le montant.	Abattage, Génération d’énergie niv2	Cuir, Organe d’alimentation, Corne
+57	Foxcicle	Glace	–	Réfrigération niv2	–
+58	Pyrin	Feu	Attaques de type Feu en le montant.	Allumage de feu niv2, Abattage	Cuir, Organe d’allumage
+058B	Pyrin Noct	Feu et Ténèbres	Attaques de type Ténèbres en le montant.	Allumage de feu niv2, Abattage	Cuir, Organe d’allumage
+59	Reindrix	Glace	Ne succombe pas à la chaleur dans les environnements chauds.	Abattage niv2, Réfrigération niv2	Viande, Cuir, Corne, Organe de congélation
+60	Rayhound	Electrik	Peut effectuer des double sauts en le montant.	Génération d’énergie niv2	Organe d’alimentation
+61	Kitsun	–	–	–	–
+62	Dazzi	Electrik	Lance des arcs électriques en combat pour aider le joueur.	Travaux manuels, Transport, Génération d’énergie	Organe d’alimentation
+63	Lunaris	Neutre	Contrôle la gravité, permet de porter plus de choses en équipe.	Travaux manuels niv3, Transport, Collecte	Éclat de Paldium
+64	Dinossom	Plante et Dragon	Augmente les dégâts des attaques Plante en le montant.	Semence niv2, Abattage niv2	Graine de blé
+064B	Dinossom Lux	Electrik et Dragon	Augmente les dégâts des attaques Electrik en le montant.	Abattage niv2, Génération d’énergie niv2	Graine de tomate
+65	Surfent	Eau	Montez-le pour naviguer sur les surfaces d’eau. Endurance baisse moins vite.	Arrosage niv2	Fluide de Pal
+065B	Surfent Terra	Sol	Monture.	Collecte	Fluide de Pal
+66	Maraith	Ténèbres	Attaques de type Ténèbres en le montant.	Collecte niv2, Extraction	Os, Âme de Petit Pal
+67	Digitoise	Sol	Mine plus efficacement, attaque en tournoyant en combat.	Extraction niv3	Métal, Huile de Pal de qualité
+68	Tombat	Ténèbres	Détecte les Pals proches.	Transport niv2, Collecte niv2, Extraction niv2	Cuir, Âme de Petit Pal
+69	Lovander	Neutre	Absorbe des dégâts et restaure vos HP en combat.	Travaux manuels niv2, Pharmacie niv2, Transport niv2, Extraction	Champignon, Gâteau, Jus
+70	Flambelle	Feu	Produit parfois des organes de Feu lorsqu’assigné à une Ferme.	Allumage de feu, Travaux manuels, Transport, Ferme	Organe d’allumage, Huile de Pal de qualité
+71	Vanwyrm	Feu et Ténèbres	Monture volante. Augmente les dégâts aux points faibles des ennemis pendant le montage.	Allumage de feu, Transport niv3	Os, Rubis, Pièce d’or
+071B	Vanwyrm Cryst	Glace et Ténèbres	Monture volante. Augmente les dégâts aux points faibles des ennemis pendant le montage.	Transport niv3, Réfrigération niv2	Os, Organe de congélation, Saphir
+72	Bushi	Feu	Attaque l’ennemi ciblé en combat.	Allumage de feu niv2, Travaux manuels, Abattage niv3, Transport niv2, Collecte	Os, Lingot de Métal
+73	Beakon	Electrik	Monture volante. Dégâts de type Electrik en le montant.	Transport niv3, Génération d’énergie niv2, Collecte	Organe d’alimentation
+74	Ragnahawk	Feu	Monture volante. Dégâts de type Feu en le montant.	Allumage de feu niv3, Transport niv3	Organe d’allumage
+75	Katress	Ténèbres	En combat, les Pals de type Neutre mis K.O lâchent plus d’objets.	Travaux manuels niv2, Pharmacie niv2, Transport niv2	Cuir, Poils de Katress, Manuel Technique de haute qualité
+76	Wixen	Feu	En combat, vos attaques sont de type Feu.	Allumage de feu niv2, Travaux manuels niv3, Transport niv2	Organe d’allumage, Manuel Technique de haute qualité
+77	Verdash	Plante	En combat, vos attaques sont de type Plante et votre vitesse est augmentée.	Semence niv2, Travaux manuels niv3, Abattage niv2, Transport niv2, Collecte niv3	Cuir, Os
+78	Vaelet	Plante	En combat, les Pals de type Sol mis K.O lâchent plus d’objets.	Semence niv2, Travaux manuels niv2, Pharmacie niv3, Transport, Collecte niv2	Médicament de fortune, Graine de tomate
+79	Sibelyx	Plante	Produit du tissu de haute qualité si assigné à une Ferme. Attaque avec un blizzard en combat.	Pharmacie niv2, Réfrigération niv2, Ferme	–
+80	Elphidran	Dragon	Monture volante. En combat, les Pals de type Ténèbres mis K.O lâchent plus d’objets.	Abattage niv2	Huile de Pal de qualité
+81	Kelpsea	Eau	Augmente les capacités de type Eau en équipe.	Arrosage niv1	Viande, Fluide de Pal
+081B	Kelpsea Ignis	Feu	Augmente les capacités de type Feu en équipe.	Allumage de feu	Viande, Organe d’allumage
+82	Azurobe	Eau et Dragon	Monture aquatique. Vos attaques sont de type Eau.	Arrosage niv3	Tissu
+83	Cryolinx	Glace	En combat, les Pals de type Dragon mis K.O lâchent plus d’objets.	Travaux manuels, Abattage niv2, Réfrigération niv3	Organe de congélation
+84	Blazehowl	Feu	En combat, les Pals de type Plante mis K.O lâchent plus d’objets.	Allumage de feu niv3, Abattage niv2	Organe d’allumage
+084B	Blazehowl Noct	Feu et Ténèbres	En combat, les Pals de type Neutre mis K.O lâchent plus d’objets.	Allumage de feu niv3, Abattage niv2	Organe d’allumage
+85	Relaxaurus	Dragon et Eau	Peut utiliser un canon pendant que vous le montez.	Transport, Arrosage niv2	Huile de Pal de qualité, Rubis
+085B	Relaxaurus Lux	Dragon et Electrik	Peut utiliser un canon pendant que vous le montez.	Transport, Génération d’énergie niv3	Huile de Pal de qualité, Organe d’alimentation, Saphir
+86	Broncherry	Plante	Dans votre équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Semence niv3	Viande, Graine de Tomate
+086B	Broncherry Aqua	Plante et Eau	Dans votre équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Arrosage niv3	Viande, Graine de laitue
+87	Petallia	Plante	Actif, il vous soigne grâce à ses pétales.	Semence niv3, Travaux manuels niv2, Pharmacie niv2, Transport, Collecte niv2	Jolie fleur
+88	Reptyro	Feu et Sol	Lorsque monté, augmente l’efficacité du minage des minerais.	Allumage de feu niv3, Extraction niv3	Organe d’allumage
+088B	Ice Reptyro	Glace et Sol	Lorsque monté, augmente l’efficacité du minage des minerais.	Extraction niv3, Réfrigération niv3	Organe de congélation
+89	Kingpaca	Neutre	Dans l’équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Collecte	Laine
+089B	Ice Kingpaca	Glace	Dans l’équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Collecte niv1, Réfrigération niv3	Laine, Organe de congélation
+90	Mammorest	Plante	Pendant que vous le montez, l’efficacité du minage de minerais et l’exploitation de bois est améliorée.	Semence niv2, Abattage niv2, Extraction niv2	Huile de Pal de qualité, Cuir, Viande
+090B	Mammorest Cryst	Glace	Pendant que vous le montez, l’efficacité du minage de minerais et l’exploitation de bois est améliorée.	Abattage niv2, Extraction niv2, Réfrigération niv2	Huile de Pal de qualité, Cuir, Viande
+91	Wumpo	Glace	Dans l’équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Travaux manuels niv2, Abattage niv3, Transport niv4, Réfrigération niv2	Organe de congélation, Jolie fleur
+091B	Wumpo Botan	Plante	Dans l’équipe, il vous décharge de votre poids et vous pouvez donc porter plus de choses.	Semence, Travaux manuels niv2, Abattage niv3, Transport niv4	Graine de laitue, Graine de tomate, Jolie fleur
+92	Warsect	Sol et Plante	En combat, il augmente votre Défense et applique le type Feu à vos attaques.	Semence, Travaux manuels, Abattage niv3, Transport niv3	Miel
+93	Fenglope	Neutre	Peut effectuer un double saut pendant que vous le montez.	Abattage niv2	Cuir, Corne
+94	Felbat	Ténèbres	En combat, il absorbe les dégâts reçus et les transforme en soin pour restaurer vos HP.	Pharmacie niv3	Tissu, Âme de Petit Pal
+95	Quivern	Dragon	Augmente les attaques Dragon pendant que vous le montez.	Travaux manuels, Transport niv3, Collecte niv2, Extraction niv2	Huile de Pal de qualité
+96	Blazamut	Feu	Augmente les attaques Feu pendant que vous le montez.	Allumage de feu niv3, Extraction niv4	Charbon, Organe d’allumage
+97	Helzephyr	Ténèbres	Applique le type Ténèbres à vos attaques pendant que vous le montez.	Transport niv3	Glande de venin, Âme de Pal
+98	Astegon	Dragon et Ténèbres	Augmente les dégâts causés aux minerais pendant que vous le montez.	Travaux manuels, Extraction niv4	Lingot de Paluminium, Quartz
+99	Menasting	Ténèbres et Sol	Augmente la défense du joueur en combat et les Pals de type Electrik lâchent plus d’objets une fois mis K.O.	Abattage niv2, Extraction niv3	Charbon, Glande de venin
+100	Anubis	Sol	Peut esquiver les attaques. Applique le type Sol à vos attaques.	Travaux manuels niv4, Transport niv2, Extraction niv3	Os, Âme de Grand Pal, Manuel innovant
+101	Jormuntide	Dragon et Eau	Monture aquatique, réduit la consommation d’endurance sur l’eau.	Arrosage niv4	Fluide de Pal
+101B	Jormuntide Ignis	Dragon et Feu	Augmente les dégâts de Feu pendant que vous le montez.	Allumage de feu niv4	Huile de Pal de qualité, Organe d’allumage
+102	Suzaku	Feu	Augmente les dégâts de Feu pendant que vous le montez.	Allumage de feu niv3	Organe d’allumage
+102B	Suzaku Aqua	Eau	Augmente les dégâts d’Eau pendant que vous le montez.	Arrosage niv3	Huile de Pal
+103	Grizzbolt	Electrik	Invoque un fusil mitrailleur pendant que vous le montez.	Travaux manuels niv2, Abattage niv2, Transport niv3, Génération d’énergie niv3	Organe d’alimentation, Cuir
+104	Lyleen	–	–	–	–
+105	Faleris	–	–	–	–
+106	Orserk	–	–	–	–
+107	Shadowbreak	Ténèbres	Augmente les attaques de type Ténèbres pendant que vous le montez.	Collecte niv1	Lingot de Paluminium, Fibre de carbone, Manuel innovant
+108	??	–	–	–	–
+109	??	–	–	–	–
+110	Frostallion	Glace	Augmente les attaques de type Glace et change vos propres attaques en type Glace.	Réfrigération niv4	Organe de congélation, Diamant
+111	Jetragon	Dragon	Peut invoquer une mitrailleuse.	Collecte niv3	Quartz, Polymère, Fibre de carbone, Diamant

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pals DB fr</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4">
+        <h1 class="text-2xl font-bold mb-4">Rechercher des Pals - Pals DB fr</h1>
+        <p class="mb-4">Rechercher des Pals par numéro (id), nom, type, pouvoir, capacités de travail ou loot possible.</p>
+        <p class="mb-4">Coder par Simonp-95 : <a href="https://github.com/simonp-95" style="color: aqua;">Github</a></p>
+        <input type="text" id="searchInput" class="border p-2 w-full mb-4" placeholder="Search...">
+        <table class="min-w-full border-collapse block md:table">
+            <thead class="block md:table-header-group">
+                <tr class="border md:table-row">
+                    <th class="block md:table-cell p-2">Numéro</th>
+                    <th class="block md:table-cell p-2">Nom</th>
+                    <th class="block md:table-cell p-2">Type</th>
+                    <th class="block md:table-cell p-2">Pouvoir</th>
+                    <th class="block md:table-cell p-2">Capacités de travail</th>
+                    <th class="block md:table-cell p-2">Loot possible</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody" class="block md:table-row-group">
+                <!-- Search results  -->
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
